@@ -9,7 +9,7 @@ BatteryManagementSystem::BatteryManagementSystem()
 double BatteryManagementSystem::get_current()
 {
   return 250;
-
+}
 double BatteryManagementSystem::get_voltage()
 {
   return 0;
