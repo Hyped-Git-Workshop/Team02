@@ -23,7 +23,7 @@ class Pod
 
 
     /// TASK 10.2 (BOTH) ///////////////////////////////////////////////////////
-    BatteryManagementSystem bms 
+    BatteryManagementSystem bms;
     Navigation nav;
     /// END OF TASK 10.2 (BOTH) ////////////////////////////////////////////////
 };
